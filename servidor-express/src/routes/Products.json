@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "Category": "Teclados",
+    "description": "HyperX Alloy Fps Origins 60%",
+    "price": 100,
+    "stock": 10,
+    "img": "TecladoHyperX"
+  },
+  {
+    "id": 2,
+    "Category": "Mouses",
+    "description": "Logitech G Pro X Superlight",
+    "price": 200,
+    "stock": 10,
+    "img": "MouseSuperlight"
+  },
+  {
+    "id": 3,
+    "Category": "Mousepads",
+    "description": "Superglide XL Rojo",
+    "price": 300,
+    "stock": 100,
+    "img": "MousepadXLRojo"
+  }
+]
